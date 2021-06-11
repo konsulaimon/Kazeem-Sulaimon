@@ -1,4 +1,5 @@
 # Kazeem-Sulaimon
-Projects 
-Data Analysis
-
+##Projects 
+##Data Analysis
+##Visualization
+##SQL Data Analysis
